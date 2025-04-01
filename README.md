@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm c0dify</h1>
+<h1 align="center">🐉 С0dify / junior developer</h1>
 <h3 align="center">A frontend developer from Russia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c0dify&label=Profile%20views&color=0e75b6&style=flat" alt="c0dify" /> </p>
